@@ -1,4 +1,5 @@
-public class Resident {
+//Resident class represnts a person living in the apartment
+ public class Resident {
 
     int id;
     String name;
